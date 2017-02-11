@@ -8,7 +8,7 @@ Generate random words by joining multiple nouns.
 All input parameters are optional.
 
 
-** Options: **
+**Options:**
     
     -l | --loop  Continuously show samples. User controlled looping.
 
